@@ -1,0 +1,105 @@
+//{{NO_DEPENDENCIES}}
+//
+#define IDM_ABOUTBOX                    0x0010
+#define IDS_ABOUTBOX                    101
+#define IDD_CHROMABROADCASTSAMPLEAPPLICATION_DIALOG 102
+#define IDI_ICON1                       128
+#define IDR_MAINFRAME                   138
+#define IDB_BITMAP2                     141
+#define IDB_PNG1                        142
+#define IDB_BITMAP3                     144
+#define IDB_PNG2                        145
+#define IDB_PNG3                        146
+#define IDB_PNG4                        147
+#define IDB_PNG5                        148
+#define IDB_PNG6                        152
+#define IDB_PNG7                        153
+#define IDB_BITMAP6                     154
+#define IDD_DIALOG_GUIDE                155
+#define IDB_PNG8                        157
+#define IDB_BITMAP7                     158
+#define IDB_PNG9                        159
+#define IDB_BITMAP8                     160
+#define IDB_PNG10                       161
+#define IDB_PNG11                       163
+#define IDB_PNG12                       164
+#define IDB_PNG13                       165
+#define IDB_PNG14                       166
+#define IDB_PNG15                       167
+#define IDB_PNG16                       168
+#define IDB_PNG17                       169
+#define IDB_PNG18                       170
+#define IDB_PNG19                       171
+#define IDB_PNG20                       172
+#define IDB_PNG21                       173
+#define IDB_PNG22                       174
+#define IDB_BITMAP1                     175
+#define IDB_BITMAP4                     176
+#define IDB_BITMAP5                     177
+#define IDB_BITMAP9                     178
+#define IDB_BITMAP10                    179
+#define IDB_PNG23                       180
+#define IDB_PNG24                       181
+#define IDB_PNG25                       182
+#define IDB_PNG26                       183
+#define IDB_PNG27                       184
+#define IDB_PNG28                       185
+#define IDI_ICON2                       186
+#define IDB_PNG29                       187
+#define IDR_MENU1                       188
+#define IDC_CHECK1                      1000
+#define IDC_EDIT1                       1001
+#define IDC_STATIC_CL2                  1002
+#define IDC_STATIC_CL3                  1003
+#define IDC_STATIC_CL4                  1004
+#define IDC_STATIC_CL5                  1005
+#define IDC_STATIC_CL1                  1006
+#define IDC_WEB_COMBO                   1007
+#define IDC_PRE_BTN                     1008
+#define IDC_NEXT_BTN                    1009
+#define IDC_CHECK2                      1010
+#define IDC_ADV_BTN                     1011
+#define IDC_SLIDER1                     1012
+#define IDC_RAZER_LOGO                  1013
+#define IDC_404_NO_DEVICE               1014
+#define IDC_LOADING_ICON                1015
+#define IDC_DRAW_LINE                   1016
+#define IDC_YEELIGHT_LOGO               1017
+#define IDC_EDIT_BRIGHT                 1019
+#define IDC_GROUP_LED                   1020
+#define IDC_COMMON_LIGHT                1022
+#define IDC_PAGE_CURRENT                1025
+#define IDC_PAGE_COUNT                  1026
+#define IDC_BUTTON1                     1027
+#define IDC_DEVICE_LIST                 1028
+#define IDC_COMBO1                      1028
+#define IDC_GUIDENCE                    1029
+#define IDC_SLIDER2                     1029
+#define IDC_SLIDER3                     1030
+#define IDC_CTRL_BTN                    2000
+#define IDC_PREVIEW_BTN                 2010
+#define IDC_SELECT_GROUP                2020
+#define IDC_LIGHT_NAME                  2030
+#define IDC_BRIGHTNESS                  2040
+#define IDC_BRIGHTNESS_SLIDER           2050
+#define IDC_BRIGHTNESS_EDIT             2060
+#define IDC_BRIGHTNESS_STATIC           2070
+#define IDC_SELECT_GROUP_STATIC         2080
+#define ID_32771                        32771
+#define ID_32772                        32772
+#define ID_32773                        32773
+#define ID_TRAY_EXIT                    32774
+#define ID_TRAY_OPEN                    32775
+#define ID_TRAY_AUTO_START              32776
+#define ID_TRAY_OPEN_MAIN               32777
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        189
+#define _APS_NEXT_COMMAND_VALUE         32778
+#define _APS_NEXT_CONTROL_VALUE         1031
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif

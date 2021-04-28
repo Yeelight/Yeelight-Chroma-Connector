@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ChromaBroadcastSampleApplicationDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CMulticast.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CUdpLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PngButton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PngComboBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPng.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CPngCheckBox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CCustomSliderCtrl2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CGraphicsRoundRectPath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IniFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChromaYeelightApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CGuidanceDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Public.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ChromaBroadcastSampleApplicationDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CMulticast.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CUdpLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PngButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PngComboBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPng.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPngCheckBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CCustomSliderCtrl2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CGraphicsRoundRectPath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IniFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChromaYeelightApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CGuidanceDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Public.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ChromaBroadcastSampleApplication.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\ChromaBroadcastSampleApplication.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\ChromaBroadcastSampleApplication.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\favicon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\title.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\img_bg1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon_logo.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\img_bg.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\enable_regular.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\preview_disable.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\light_bg.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\img_bg.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\enable_regular.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\preview_disable.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\combo_box_down.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\combo_box_up.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\guidence.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\guidence_bg.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\guidence_bg.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\razer.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\razer.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\loading.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap9.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\dot.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\guidence.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\adv.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\disable_regular.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\preview_focus.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\preview_no_focus.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\light_dysis_le.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon_ light bulb_normal.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\page_next_hover.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\page_next_regular.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\page_preview_hover.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\page_preview_regular.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\light_bg.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\list1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\list2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\list3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\list4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\404.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon_color4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon_strip6.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\page_next_disable.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\page_preview_disable.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\guidence_hover.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\guidance.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon_lamp15.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
